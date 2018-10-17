@@ -6,7 +6,8 @@
 
 ## Seneca
 
-> Manus manum lavat.
+> Manus manum lavat.  
+> Non scholae sed vitae discimus
 
 ## Vespasian
 
