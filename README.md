@@ -11,3 +11,11 @@
 ## Vespasian
 
 > Pecunia non olet.
+
+## Nero
+
+> Qualis artifex pereo.
+
+## Cicero
+
+> Quoiusque tandem, Catilina,...
