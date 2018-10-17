@@ -7,3 +7,7 @@
 ## Seneca
 
 > Manus manum lavat.
+
+## Vespasian
+
+> Pecunia non olet.
