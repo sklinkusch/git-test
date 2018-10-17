@@ -25,6 +25,6 @@
 
 > Alea iacta sunt.  
 > Gallia est omnis divisa in partes tres quarum unam incolunt Belgae, aliam Aquitani
-> tertiam qui ipsorum linguae Celtae nostri Galli aappelantur.
+> tertiam qui ipsorum linguae Celtae nostri Galli appelantur.
 
 ## Latin is brilliant
